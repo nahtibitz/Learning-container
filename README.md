@@ -1,9 +1,9 @@
 # Learning-container
 A repository that will contain numerous files and tools I've created using C#
 
-   **+-- Goals ---+**
+   **<--- Goals --->**
    
-  **+-- Short Term --+**
+  **<-- Short Term -->**
 - Learn C# through creating small tools and applications
      * Name generator (string manipulation)
      * Desktop based alarm clock that plays a custom sound
@@ -16,7 +16,7 @@ A repository that will contain numerous files and tools I've created using C#
   * Development lifecycle
   * Other shit related to development
 
- **+-- Long Term --+**
+ **<-- Long Term -->**
 - Create a short text based RPG that has:
     * Items
     * Inventory
